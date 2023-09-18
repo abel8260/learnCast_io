@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1694345957 source:c:\users\miguel\onedrive\documentos\projectcodeblocks01\cpplearncast\main.cpp
+	<iostream>
+	"ofFcommon.h"
+	"welcome.h"
+	"ask.h"
+	"finalBye.h"
+
+1694343383 c:\users\miguel\onedrive\documentos\projectcodeblocks01\cpplearncast\offcommon.h
+	<iostream>
+
+1694345712 c:\users\miguel\onedrive\documentos\projectcodeblocks01\cpplearncast\welcome.h
+	"ofFcommon.h"
+	<iostream>
+
+1694345981 c:\users\miguel\onedrive\documentos\projectcodeblocks01\cpplearncast\ask.h
+	"ofFcommon.h"
+	<string>
+	<iostream>
+
+1694345723 c:\users\miguel\onedrive\documentos\projectcodeblocks01\cpplearncast\finalbye.h
+	<iostream>
+
